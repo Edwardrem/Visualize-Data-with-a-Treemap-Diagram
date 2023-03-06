@@ -1,2 +1,4 @@
-# Visualize-Data-with-a-Treemap-Diagram
-an app that is functionally similar to this: https://treemap-diagram.freecodecamp.rocks.
+# FCC: D3 Tree  Map
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/rufaro-mutepfa/pen/bGEXEod](https://codepen.io/rufaro-mutepfa/pen/bGEXEod).
+
